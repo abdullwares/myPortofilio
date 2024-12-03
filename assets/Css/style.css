@@ -365,7 +365,11 @@ input, .subject{
 }
 
 
-
+.checkup{
+    list-style-type: disc;
+    color: red;
+    
+}
 
    /* Start Footer */
 footer {
